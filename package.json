@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  start.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chromedriver": "^97.0.0",
+    "console-log-colors": "^0.2.3",
+    "esm": "^3.2.25",
+    "firebase": "^9.6.6",
+    "get-pixels": "^3.3.3",
+    "node-fetch": "^3.1.1",
+    "puppeteer": "^13.1.3",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "selenium-webdriver": "^4.1.1",
+    "socket.io-client": "^4.4.1",
+    "terminal-image": "^2.0.0",
+    "terminal-kit": "^2.4.0"
+  }
+}
