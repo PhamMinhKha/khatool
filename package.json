@@ -11,15 +11,11 @@
     "node-fetch": "^3.1.1",
     "easy-ftp": "^0.4.2",
     "puppeteer": "^19.1.0",
-    "puppeteer-core": "^19.4.1",
-    "puppeteer-extra": "^3.3.4",
     "qrcode": "^1.5.0",
     "qrcode-terminal": "^0.12.0",
     "selenium-webdriver": "^4.1.1",
     "socket.io-client": "^4.4.1",
     "terminal-image": "^2.0.0",
-    "terminal-kit": "^2.4.0",
-    "puppeteer-extra-plugin-stealth": "^2.11.1",
-    "puppeteer-with-fingerprints": "^1.0.0"
+    "terminal-kit": "^2.4.0"
   }
 }
